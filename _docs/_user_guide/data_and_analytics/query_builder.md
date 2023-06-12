@@ -119,7 +119,7 @@ Your query may fail for any of the following reasons:
 
 ## Data and results
 
-Results, and exports of results, are tables that can contain up to 1,000 rows. For reports that require larger amounts of data, use another tool such as [Currents]({{site.baseurl}}/user_guide/data_and_analytics/braze_currents) or Braze’s [export APIs]({{site.baseurl}}/api/endpoints/export).
+Results, and exports of results, are tables that can contain up to 1,000 rows and the previous 60 days worth of data. For reports that require larger amounts of data, use another tool such as [Currents]({{site.baseurl}}/user_guide/data_and_analytics/braze_currents) or Braze’s [export APIs]({{site.baseurl}}/api/endpoints/export).
 
 ## Monitoring your Query Builder usage
 
