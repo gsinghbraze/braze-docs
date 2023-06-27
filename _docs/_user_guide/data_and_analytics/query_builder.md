@@ -123,7 +123,7 @@ Results, and exports of results, are tables that can contain up to 1,000 rows. F
 
 ## Monitoring your Query Builder usage
 
-Each Braze workspace has 2,000 Query Builder credits available per month. Credits are used whenever you run a query or preview a table. Credit usage corresponds to the run time of your queries. 
+Each Braze workspace has 5 credits available per month. Credits are used whenever you run a query or preview a table. Credit usage corresponds to the run time of your queries. 
 
 Credit usage is correlated to the run time of your SQL query. The longer the run time is, the more credits a query will cost. Run time can vary depending on the complexity and size of your queries over time. The more complex and frequent queries you run, the larger your resource allocation and the faster your run time becomes.
 
@@ -131,8 +131,8 @@ Credit usage is correlated to the run time of your SQL query. The longer the run
 The ability to track credit usage for each query is coming soon.
 {% endalert %}
 
-Credits are not used when writing, editing, or saving reports within the Braze SQL editor. Your credits will reset to 2,000 on the first of each month at 12 am UTC. You can monitor your monthly credit usage at the top of the Query Builder page.
+Credits are not used when writing, editing, or saving reports within the Braze SQL editor. Your credits will reset to 5 on the first of each month at 12 am UTC. You can monitor your monthly credit usage at the top of the Query Builder page.
 
 ![Query Builder showing the amount of credits used in the current month.]({% image_buster /assets/img_archive/query_builder_credits.png %}){: style="max-width:60%"}
 
-When you reach the credit cap, you cannot run queries, but you can create, edit, and save SQL reports. If you want to purchase more Query Builder credits, please get in touch with your account manager.
+When you reach the credit cap, you cannot run queries, but you can create, edit, and save SQL reports. If you want to purchase more Query Builder credits, please click the **Upgrade Credits** button on the banner or get in touch with your account manager.
